@@ -1,16 +1,19 @@
-### Hi there 👋
+# Sobre Mim
 
-<!--
-**jesimielsilva/jesimielsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Meu nome é Jesimiel, e sou um desenvolvedor de software apaixonado por tecnologia.
 
-Here are some ideas to get you started:
+## Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desenvolvimento Web
+- Desenvolvimento de Aplicativos Móveis
+- Banco de Dados
+
+## Projetos
+
+- [Projeto 1](link-para-o-projeto-1): Breve descrição do projeto.
+- [Projeto 2](link-para-o-projeto-2): Breve descrição do projeto.
+
+## Contato
+
+Você pode me encontrar em [LinkedIn](https://www.linkedin.com/in/jesimielsilva).
+
